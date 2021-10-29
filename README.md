@@ -1,4 +1,4 @@
-<!-- Musik -->
+<!-- Musik --> 
 <audio
   autoplay="true"
   loop
@@ -47,7 +47,7 @@
     <img src="img/hat.svg" alt="" class="hat" />
     <div class="wish">
       <h3 class="wish-hbd">Happy Birthday!</h3>
-      <h5 id="wishText">May the js.prototypes always be with you! ;)</h5>
+      <h5 id="wishText">May lucky always be with you! ;)</h5>
     </div>
   </div>
   <div class="seven">
